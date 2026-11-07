@@ -13,9 +13,9 @@
   "backgroundColor": "#F8F8F8",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://raw.githubusercontent.com/somos-criptonautas/brand-kit/main/discourse/large-icon-512.png",
-  "maskableIconUrl": "https://raw.githubusercontent.com/somos-criptonautas/brand-kit/main/discourse/large-icon-512.png",
-  "monochromeIconUrl": "https://raw.githubusercontent.com/somos-criptonautas/brand-kit/main/discourse/push-icon-96.png",
+  "iconUrl": "https://raw.githubusercontent.com/criptonautas/brand-kit/main/discourse/large-icon-512.png",
+  "maskableIconUrl": "https://raw.githubusercontent.com/criptonautas/brand-kit/main/discourse/large-icon-512.png",
+  "monochromeIconUrl": "https://raw.githubusercontent.com/criptonautas/brand-kit/main/discourse/push-icon-96.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "./android.keystore",

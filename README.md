@@ -14,7 +14,7 @@ first, then regenerate:
 
     sh scripts/update.sh
 
-Icons come straight from the [brand kit](https://github.com/somos-criptonautas/brand-kit)
+Icons come straight from the [brand kit](https://github.com/criptonautas/brand-kit)
 (`discourse/large-icon-512.png`, `discourse/push-icon-96.png`): after a kit update, run the
 script and release to pick them up.
 

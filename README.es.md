@@ -15,7 +15,7 @@ Un tag `vX.Y.Z` hace que GitHub Actions compile, firme y adjunte `criptonautas.a
 
     sh scripts/update.sh
 
-Los iconos salen directo del [brand kit](https://github.com/somos-criptonautas/brand-kit)
+Los iconos salen directo del [brand kit](https://github.com/criptonautas/brand-kit)
 (`discourse/large-icon-512.png`, `discourse/push-icon-96.png`): después de actualizar el kit,
 corre el script y publica una versión para tomarlos.
 
